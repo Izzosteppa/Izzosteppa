@@ -3,12 +3,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 🛠 Skills & Technologies
 Languages: Java, JavaScript, Python, C#, C++
+
 Web Development: HTML, CSS
+
 Tools & Frameworks:
 Frontend: React, Angular
 Backend: Node.js, Django, Spring Boot
 Database: MySQL
 Other: Git, Docker, RESTful APIs
+
 🌱 What I'm Currently Working On
 I'm constantly learning and building projects that challenge my skills and help me grow as a developer. Right now, I’m focusing on building a Cross-Platform Mobile App.
 
