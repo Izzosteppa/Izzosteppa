@@ -2,6 +2,15 @@
 <h3 align="center">A passionate full stack developer from Johannesburg</h3>
 <p align="center">Building modern web applications and scalable backend systems using technologies like React, Node.js, Java, and Python.</p>
 
+🎯 What I do:
+🖥️ Build software that’s human-centered and functional
+
+🎨 Explore intersections between tech, fashion, music, and art
+
+🧠 Solve problems with curiosity, empathy, and innovation
+
+✍🏾 Write and draw to express what code sometimes can't
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izzosteppa&label=Profile%20views&color=0e75b6&style=flat" alt="izzosteppa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izzosteppa" alt="izzosteppa" /></a> </p>
